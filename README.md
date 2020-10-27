@@ -1,4 +1,4 @@
-# Functional Directory of fMRI BOLD Scans
+# Functional Data of fMRI BOLD Scans
 
 ## Acknowledglements
 
