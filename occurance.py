@@ -83,11 +83,10 @@ def count_times(func):
         :param func: dictionary in the format (k, v): (name of brodmann area, name of the functions) 
     """
     times = dict()
-    print(func.keys())
     for val in func.values():
         for v in val:
             inc = 1
-            v = v.split("\t\t")[0]
+            v = v.split("\t\t")[1]
             if v in times:
                 times[v] += inc
             else:
