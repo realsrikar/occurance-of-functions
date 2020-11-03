@@ -12,6 +12,4 @@ if __name__ == "__main__":
     if file == 3:
         filename = "positively.tsv"
 
-    main("Data/brodmann.tsv", "Data/Table/" +
-         filename, "Data/Table/"+"frequency.tsv")
-    # main()
+    main("Data/brodmann.tsv", "Data/Table/")
