@@ -36,7 +36,7 @@ Which data do you want to Process?
 
 ### Brodmann Area
 
-| Name of the function   | Brodmann area number       | Type of functions |
+| Name of the function   | Brodmann area number       | Type of function  |
 | ---------------------- | -------------------------- | ----------------- |
 | Primary motor          | 4,1,2,3                    | Motor             |
 | Secondary motor        | 6,8                        | Motor             |
